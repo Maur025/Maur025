@@ -57,9 +57,9 @@ I'm software developer, currently focus in backend development with java/spring 
 
 # 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maur025&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maur025&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Maur025)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maur025&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
