@@ -1,12 +1,12 @@
-# 💫 About Me:
+# 💫 About Me
 
 I'm software developer, currently focus in backend development with java/spring boot, have knowledge of other programming languages ​​such as TypeScript and Python, including some of their libraries and frameworks.<br>
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-eduardo-moya-palli-10520b188/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmoyapalli@gmail.com)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## Languages
 
@@ -58,7 +58,6 @@ I'm software developer, currently focus in backend development with java/spring 
 # 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maur025&theme=tokyonight)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Maur025&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
